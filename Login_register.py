@@ -1,5 +1,5 @@
 test_dict = {}
-# Register button ******************* working fine***************************************
+# Register button 
 
 from random import randint, randrange
 #test_dict = {}
@@ -41,7 +41,7 @@ def registration():
 
 
 #registration()
-#*************************code is working fine******************************
+
 import os
 import json
 from datetime import datetime,timedelta 
