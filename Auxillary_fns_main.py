@@ -18,7 +18,7 @@ import mysql.connector
 
 
 
-#***************************************************************************Above could be Imports from the dependencies*************************************************************
+
 def fetch_bookfromdb():
     global book_obj
     book_id = input("Enter the BookId to work with: ")
